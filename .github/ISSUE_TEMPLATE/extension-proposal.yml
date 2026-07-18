@@ -1,0 +1,31 @@
+name: Extension / commentary
+description: Framing disagreements, alternative designs, comparative analyses, new directions — the non-falsification path.
+title: "[extension] <one-line summary>"
+labels: ["extension"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Alternative design / mechanism variant
+        - Comparative / positioning analysis
+        - Framing or values commentary
+        - New research direction (proposes a new open question)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: The proposal
+      description: >-
+        What you're proposing or arguing, and which claims or open questions it touches (IDs from
+        CLAIMS.md / open-questions/). Extensions are welcome and credited; they inform the registers but
+        are not falsifications (see CALL_FOR_PAPERS.md for the boundary).
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Name / affiliation (optional)

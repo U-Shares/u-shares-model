@@ -1,0 +1,9 @@
+# Stable-employment regime — the sanity-check scenario.
+# New GDP splits like the measured labor share; employment level unchanged.
+# Expected: receipts per $1 of new GDP ~ reproduces the naive 17.8% benchmark.
+name: stable
+notes: employment holds; marginal labor share = measured (~0.55)
+uplift: 0.03        # mid scenario; swap for 0.01 (Acemoglu) ... 0.07 (Goldman)
+lam: 0.55
+foreign: 0.18
+d_emp: 0.0

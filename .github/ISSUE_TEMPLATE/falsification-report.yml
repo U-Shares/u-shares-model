@@ -1,0 +1,44 @@
+name: Falsification report
+description: Contest a registered claim against its stated disconfirming test.
+title: "[falsify] <claim ID>: <one-line summary>"
+labels: ["falsification"]
+body:
+  - type: input
+    id: claim-id
+    attributes:
+      label: Claim ID
+      description: From CLAIMS.md (e.g., F1, DS1).
+      placeholder: F1
+    validations:
+      required: true
+  - type: dropdown
+    id: path
+    attributes:
+      label: Falsification path (per CALL_FOR_PAPERS.md — pre-stated criteria)
+      options:
+        - Scenario run (documented assumptions flip the claim's disconfirming test)
+        - Reproducible error in a derivation or the model code
+        - Published empirical evidence contradicting the claim's evidence base
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: The evidence
+      description: >-
+        Scenario run: attach/paste the scenario file + output + sources for each changed assumption.
+        Code/derivation error: file, location, reproduction steps. Empirical: full citation + the
+        specific contradiction with claims/evidence/<ID>.md.
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: How this flips the stated disconfirming test
+      description: Quote the claim's disconfirming test from CLAIMS.md and state precisely how your evidence meets it.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Name / affiliation (optional — credit per the CONTRIBUTING.md ladder)

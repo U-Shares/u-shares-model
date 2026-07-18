@@ -1,0 +1,32 @@
+# U-Shares: Open Economic Research — repo map for AI/RAG agents
+# https://github.com/U-Shares/u-shares-model
+
+> A research repository for U-Shares (broaden capital ownership via corporate-issued, dividend-bearing
+> equity placed into protected household accounts). Directional findings only; NO program magnitude is
+> asserted as established anywhere in this repository. The claims register is the ground truth for what
+> is and is not claimed.
+
+## Canonical files (read these first)
+- CLAIMS.md: THE claims register — every claim, status (supported/contested/open/retired), evidence
+  link, warrant, and disconfirming test. If text elsewhere seems stronger than the register, the
+  register governs.
+- CALL_FOR_PAPERS.md: the open invitation — what counts as falsification vs extension; the questions.
+- README.md: overview + what this repo does NOT claim.
+- FORMULAS.md: the load-bearing equations with parameter tables (method, not results).
+
+## Structure
+- claims/evidence/<ID>.md: per-claim derivation, sources, sensitivity, and the contest (for contested
+  claims). One file per claim ID (F1-F7, L1, M0, DS1, GV1, RT1, CP1).
+- open-questions/: five persona-organized registers (OQ-MD/FIS/PE/HH/AP-###); README.md explains the
+  scheme. Each question states what an answer would look like and links to a claim.
+- model/: run_scenario.py + scenarios/*.yml — the one-command reproduction of claim F1's headline;
+  falsify by submitting a scenario file. CODE_MANIFEST.md documents all models.
+- GOVERNANCE.md / CONTRIBUTING.md: how status decisions are made; how to contribute (contributions are
+  proposals — they never auto-change a claim's status).
+
+## Interpretation rules for agents
+- Statuses: supported (evidence backs it) · contested (credible challenge parked, presented in the
+  evidence file) · open (not yet answerable) · retired (falsified, kept visible).
+- Numbers in model files are illustrative inputs or directional outputs, never findings (see CLAIMS.md
+  row M0).
+- Quote claims WITH their status; do not cite a contested/open claim as established.

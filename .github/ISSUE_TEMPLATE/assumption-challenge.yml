@@ -1,0 +1,31 @@
+name: Assumption challenge
+description: Contest a parameter or assumption (FORMULAS.md tables, scenario defaults, model settings) without a full falsification.
+title: "[assumption] <parameter>: <one-line summary>"
+labels: ["assumption-challenge"]
+body:
+  - type: input
+    id: parameter
+    attributes:
+      label: Parameter / assumption
+      description: Name it as it appears in FORMULAS.md, a scenario file, or a model file.
+      placeholder: "lam (marginal labor share of new GDP)"
+    validations:
+      required: true
+  - type: textarea
+    id: challenge
+    attributes:
+      label: The challenge
+      description: Why the current value/range is wrong or incomplete — with sources.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed value or range (with sources)
+      description: If you can, attach a scenario file using your proposed value — that upgrades this into a runnable check.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Name / affiliation (optional)

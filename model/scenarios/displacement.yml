@@ -1,0 +1,9 @@
+# Displacement regime — the program's binding macro risk (claim F1's danger cell).
+# New GDP flows to capital; the wage base erodes as employment falls.
+# Expected: receipts fall well below naive; NET can go NEGATIVE at low uplift.
+name: displacement
+notes: automation displaces; labor share of new GDP low; employment -2%
+uplift: 0.03
+lam: 0.30
+foreign: 0.25
+d_emp: -0.02

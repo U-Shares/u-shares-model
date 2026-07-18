@@ -1,0 +1,31 @@
+name: Claim an open question
+description: Stake an open question from open-questions/ so effort isn't duplicated.
+title: "[OQ-claim] OQ-XX-###: <short title>"
+labels: ["question-claim"]
+body:
+  - type: input
+    id: oq-id
+    attributes:
+      label: OQ-ID
+      description: The question you are claiming (e.g., OQ-MD-001), from open-questions/.
+      placeholder: OQ-MD-001
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Planned approach
+      description: Method, data sources, and rough timeline. The question's "what an answer would look like" field is the target.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Name / affiliation (optional)
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Ground rules
+      options:
+        - label: I've read CONTRIBUTING.md — contributions are proposals; the registers are maintainer-written.
+          required: true

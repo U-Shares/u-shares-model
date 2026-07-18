@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you use or contest this work, please cite the repository (below). Per-paper
+  citation blocks live in each paper directory; cite the specific tagged release
+  you examined so your critique targets a fixed version.
+title: "U-Shares: Open Economic Research"
+authors:
+  - family-names: Blake
+    given-names: Mike
+type: software
+repository-code: "https://github.com/U-Shares/u-shares-model"
+license: MIT
+license-url: "https://creativecommons.org/licenses/by/4.0/"  # prose/figures: CC-BY 4.0 (see LICENSE.md)
+abstract: >-
+  Methods, formulas, directional findings, open questions, and a public claims
+  register for U-Shares — a proposal to broaden capital ownership by converting
+  part of an AI-driven growth dividend into ownership stakes ordinary households
+  hold. Published to invite validation, calibration, and refutation; no program
+  magnitude is asserted as established.
+keywords:
+  - citizen ownership
+  - wealth distribution
+  - universal basic capital
+  - public finance
+  - policy economics
+# version + date-released + doi: stamped at each tagged release (Zenodo DOI minted per release).

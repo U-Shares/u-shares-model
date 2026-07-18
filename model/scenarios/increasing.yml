@@ -1,0 +1,9 @@
+# Reinstatement regime — new tasks favor labor (Acemoglu-Restrepo reinstatement;
+# the "American System" production-and-jobs case). Employment level rises.
+# Expected: receipts exceed the naive benchmark.
+name: increasing
+notes: reinstatement dominates; wage base grows; employment +2%
+uplift: 0.03
+lam: 0.62
+foreign: 0.12
+d_emp: 0.02
