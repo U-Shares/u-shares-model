@@ -1,0 +1,15 @@
+# The "Intelligence Inversion" world (after Emad Mostaque, The Last Economy, 2025):
+# transformative AI uplift ARRIVES TOGETHER WITH labor displacement — capital
+# divorces labor; the wage base erodes even as output surges.
+# Expected: the composition channel dominates; wage-channel receipts turn negative;
+# NET receipts stay positive ONLY because the uplift is large. Compare
+# displacement.yml (same regime, modest uplift) where NET is far weaker — the
+# funding rule's exposure is the COMBINATION of displacement and modest growth.
+# Added 2026-07-22 (post-launch cadence candidate).
+name: mostaque-world
+notes: intelligence inversion - high uplift + displacement (capital divorces labor)
+source: Mostaque, The Last Economy (2025); Acemoglu-Restrepo displacement framework
+uplift: 0.07        # bull-case uplift (Goldman-scale); his world implies at least this
+lam: 0.30           # displacement-regime marginal labor share of new GDP
+foreign: 0.25       # capital-income leakage rises as surplus concentrates
+d_emp: -0.02        # employment level falls - the divorce of capital from labor

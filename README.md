@@ -67,7 +67,7 @@ Python 3.10+ and PyYAML only.
 [`CLAIMS.md`](CLAIMS.md) — the register; ground truth for what is and isn't claimed ·
 [`CALL_FOR_PAPERS.md`](CALL_FOR_PAPERS.md) — the open invitation and what counts as falsification ·
 [`FORMULAS.md`](FORMULAS.md) — the load-bearing equations · [`CODE_MANIFEST.md`](CODE_MANIFEST.md) — the
-models and how to reproduce or contest the runs · [`open-questions/`](open-questions/) — 26 questions
+models and how to reproduce or contest the runs · [`open-questions/`](open-questions/) — 29 questions
 across five reviewer perspectives · [`GOVERNANCE.md`](GOVERNANCE.md) · [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Citing this work

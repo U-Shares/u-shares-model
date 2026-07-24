@@ -59,3 +59,14 @@ incentive structure induce the firm behavior the mechanism needs?
   effect on the retention statistic, with sensitivity.
 - **Links to claim.** F7 (poverty-first reach) · DS1 (dispersion).
 - **Route.** Extension (model-specification review).
+
+### OQ-MD-006 — The pump-rate frontier *(added 2026-07-22 — *The Last Economy* study)*
+- **Question.** What continuous placement flow ("pump rate") holds the periphery's wealth share at
+  preferential-attachment strength α — and does the frontier's observed flatness survive when
+  attachment reaches the protected accounts themselves? In-house first pass: `model/t2b_pump_frontier.py`
+  (flat frontier through α≈1.8) and `model/t2c_wrapper_breach.py` (tested breaches degrade gracefully
+  and are pumpable; stopping the flows is what kills dispersion) — both structural, sign/ordering only.
+- **What an answer would look like.** Reproduction on calibrated network data; attachment-on-accounts
+  variants beyond t2c's permeability/rake dials; an analytic frontier if one exists.
+- **Links to claim.** DS1 (dispersion) · DR1 (the rail's κ) · GV1 (the flows-first protection ordering).
+- **Route.** Reproduction + extension (the harnesses ship in `model/`).

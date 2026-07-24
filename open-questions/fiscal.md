@@ -91,3 +91,16 @@ submissions cluster here).*
   overturns any of these numbers.
 - **Links to claim.** F7 (poverty-first reach — magnitudes open) · M0 (the standing magnitudes gate).
 - **Route.** Falsification (these remain unasserted pending validation).
+
+### OQ-FIS-011 — Asset evaporation and the reserve's tail correlation *(added 2026-07-22 — *The Last Economy* study)*
+- **Question.** If AI-driven obsolescence destroys asset values at unprecedented speed — the
+  "evaporation" forecast in *The Last Economy* (Intelligent Internet, 2025, Ch. 20) — what happens to
+  the backstop's default probability and tail correlation (ρ) *simultaneously*, and does 1-in-200
+  reserve sizing survive? A first-pass stress (structured stress pass, 2026-07-22) found
+  evaporation-flavored cells escalate the reserve 2.4×–4.3× over the central case — severe but the
+  same order of magnitude (directional; structure bends, doesn't break).
+- **What an answer would look like.** A calibrated correlated-obsolescence scenario for the tail-reserve
+  model (a scenario file is the invited form), with empirical priors from historical
+  technology-transition drawdowns.
+- **Links to claim.** F6 (reserve sizing — `contested`) · M0 (magnitudes gate).
+- **Route.** Falsification / refinement of the stress band.

@@ -14,7 +14,7 @@ account, $1,000 public seed (2025–28 cohort), broad-index equity, statutory lo
 with conversion features; SSA disregards the account for SSI during childhood (guidance-level). Then:
 **baby bonds** (Booker-style; state pilots) · **ESOPs** (decades of data; §1042) · **UBI / citizen
 dividends** (Alaska PFD; the Sanders AI-fund bill) · **Stout-style citizen capitalism** (issuance-based,
-heritable individual ownership) · **MOSAIC/UHI-type proposals** (ownership vs transfer hybrids).
+heritable individual ownership) · **MOSAIC/UHI-type proposals** (ownership vs transfer hybrids) · **intelligence-endowment programs** (*The Last Economy*'s universal claim on frontier AI capability — Intelligent Internet, 2025; see the dedicated section below).
 
 ## The structured comparison (direction, not magnitude)
 
@@ -56,6 +56,17 @@ A structured comparison showing an existing instrument dominates U-Shares on eve
 *(The table above shows the converse claim's shape: no comparator currently dominates on all dimensions —
 but several beat U-Shares on evidence, simplicity, and lift, which is why the claim is `open`, not
 `supported`.)*
+
+## The intelligence-endowment member *(added 2026-07-22 — *The Last Economy* study)*
+*The Last Economy* (Intelligent Internet, 2025) contributes the family's only **intelligence-endowment**
+member: a universal claim on frontier AI capability — an endowment of the productive *instrument* rather
+than of capital returns. On this comparison's dimensions it is the **complement, not a competitor**: it
+supplies what no ownership program here addresses (guaranteed access to the means of production), and it
+omits what U-Shares supplies (a compounding claim on capital returns — the property leg its own
+r-vs-g-as-topology diagnosis demands — verified by full-text sweep). Stated in both directions, honestly:
+U-Shares without an intelligence endowment leaves the periphery renting the instrument; an intelligence
+endowment without a property leg leaves compounding ownership where it already concentrates.
+Directional; a comparison, not an endorsement.
 
 ## Sources / provenance
 §530A verification memo (2026-07-18) + CRS R48910; Trump-Accounts-rails scoping note (2026-07-04);

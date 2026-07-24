@@ -42,6 +42,16 @@ A political-economy analysis showing no statutory/constitutional design survives
 sovereign, benchmarked against both the raided-fund base rate (1MDB, FONDEN, LIA) and the domestic
 lawful-redefinition base rate (Alaska PFD / *Wielechowski v. State*, 2017).
 
+## Annotation — protect the flows first *(added 2026-07-22 — wrapper-breach study, `model/t2c_wrapper_breach.py`)*
+The wrapper-breach harness (`model/t2c_wrapper_breach.py`) finds every tested breach of the account
+walls is *pumpable* — partial market-permeability and fee-rake attacks cost little and are compensated
+by modest pump increases — while stopping the flows kills dispersion outright. That is the model-side
+twin of this file's own strongest historical case: Alaska's Permanent *Fund* (the stock) survived;
+the *dividend* (the flow) is what was capped (*Wielechowski*, 2017). Model and history agreeing
+independently reorders the protection priority: statutory/constitutional protection belongs **first on
+the flows** — dividend mandatoriness and placement-credit continuity — and second on the account
+wrapper. Directional (see M0); see `open-questions/mechanism-design.md` OQ-MD-006.
+
 ## Sources / provenance
 SWF/PWF Durability Study Findings v1.0 (2026-06-22; corrected 2026-07-04 for the lawful-redefinition
 mode); Santiago Principles (IFSWF); primary/investigative case sources cited therein; *Wielechowski v.

@@ -61,5 +61,16 @@ where does it merely complement, and where does it lose?
 - **Links to claim.** CP1 · F7 (poverty-first ladder) · RT1 (the adult wrapper).
 - **Route.** Extension (legislative design).
 
+### OQ-AP-006 — Does the corporate form persist long enough to matter? *(added 2026-07-22 — *The Last Economy* study)*
+- **Question.** U-Shares' funding engine assumes corporations durable enough to issue against future
+  earnings. *The Last Economy* (Intelligent Internet, 2025) argues both sides itself: Ch. 11 forecasts
+  the firm dissolving into AI-native networks; Ch. 20 recasts corporations as durable, evolving "slow
+  AI." If firm dissolution wins, the issuance counterparty thins — a shared exposure across every
+  issuance-based member of this family. Which reading does the evidence favor, on what horizon?
+- **What an answer would look like.** Institutional-economics or empirical work on firm-form durability
+  under AI adoption, translated into issuance-capacity terms.
+- **Links to claim.** F4/F5 (issuance) · CP1 (family-wide dependence on issuers/employers).
+- **Route.** Argument + evidence (political-economy adjacent).
+
 *Note: the fourth §530A-interaction question — means-tested-benefit treatment, the KS1 hinge — lives in
 the household register as **OQ-HH-004** (updated 2026-07-18 with the verified finding).*

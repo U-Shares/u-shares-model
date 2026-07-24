@@ -24,6 +24,10 @@ are inputs to vary; outputs are directional, not established magnitudes.
 | `track_d_distribution.py` | How far up the poverty-first ladder does it reach? | Depth-first tier fill from S_max | capacity, tier populations, cap | Census poverty / ≤200%-FPL (approximate) |
 | `tail_reserve_model.py` | How big a reserve backstops the floor? | One-factor Gaussian copula; Monte-Carlo ES / ruin | PD, ρ, LGD, notional | PBGC premium structure; insurance/Basel framework |
 | `econ007_swfpwf.py` | Does a public-fund distribution rail add reach (κ) without degrading the base result? (DR1) | Paired ABM grid (144 cells × 100 seeds, common random numbers, pre-registered) | channels, holding window, appreciation, arm's-length flag | Base ABM (DS1); §6418 credit-market practice |
+| `model/t2_preferential_attachment.py` | Does preferential attachment defeat dispersion — and what happens when the pump stops? (DS1/RT1; the *Last Economy* stress test) | Minimal structural model, 4 arms, common random numbers; α dial interpolates BM mixing → neutral → attachment | α, pump rate, retention ρ, cap, wrapper leak | Bouchaud-Mézard family; Mostaque, *The Last Economy* (2025) |
+| `model/t2b_pump_frontier.py` | What pump rate holds the periphery's share at each attachment strength? (the frontier) | α × pump-rate grid over the same harness, common random numbers | α ∈ [1.0, 1.8]; pump 0–2%/yr (in-model) | Same as above |
+| `model/t2c_wrapper_breach.py` | What if attachment reaches the protected accounts? (wrapper breach: market permeability + fee rake; is a breach pumpable?) | Breach dials on the T2 harness + compensation probe, common random numbers | π ∈ [0,1]; rake 0–2%/yr; pump 1–3%/yr | Same as above; GV1 (the walls vs the flows) |
+| `model/t1_formalism_bridge.py` | Are r>g-as-topology and the wealth-tail index the same dial? | Measured Hill tail exponent vs 1 + J/σ² across a J-sweep (BM kernel, α=0) | J ∈ [0.02, 0.16]; σ = 0.20 | Bouchaud-Mézard family; Gabaix random-growth line; Mostaque Ch. 10 |
 
 ## What ships at launch vs. what follows
 **At launch,** the runnable code is `model/run_scenario.py` + `model/scenarios/` (the F1 reproduction

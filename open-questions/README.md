@@ -9,13 +9,13 @@ reviewer brings, so you can go straight to the objections you're best equipped t
 
 | Register | ID prefix | Questions | What this reviewer presses |
 |---|---|---|---|
-| [mechanism-design.md](mechanism-design.md) | `OQ-MD-###` | 5 | Does the Capital Dispersion Engine actually disperse? Does the incentive induce issuance? |
-| [fiscal.md](fiscal.md) | `OQ-FIS-###` | 10 | Cost, durability, reserve sizing, and the employment-contingency of the funding path |
+| [mechanism-design.md](mechanism-design.md) | `OQ-MD-###` | 6 | Does the Capital Dispersion Engine actually disperse? Does the incentive induce issuance? |
+| [fiscal.md](fiscal.md) | `OQ-FIS-###` | 11 | Cost, durability, reserve sizing, and the employment-contingency of the funding path |
 | [political-economy.md](political-economy.md) | `OQ-PE-###` | 2 | Capture, durability, incentive erosion, and "why hasn't this happened?" |
 | [household.md](household.md) | `OQ-HH-###` | 4 | Does the stake *stick*? Recipient behavior and welfare |
-| [adjacent-policy.md](adjacent-policy.md) | `OQ-AP-###` | 5 | Positioning and interaction vs. UBI, baby bonds, ESOPs, 401(k)s, SWFs |
+| [adjacent-policy.md](adjacent-policy.md) | `OQ-AP-###` | 6 | Positioning and interaction vs. UBI, baby bonds, ESOPs, 401(k)s, SWFs |
 
-Twenty-six questions in all (5 · 10 · 2 · 4 · 5).
+Twenty-nine questions in all (6 · 11 · 2 · 4 · 6).
 
 ## How each question is written
 
