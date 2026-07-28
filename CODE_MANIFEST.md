@@ -46,3 +46,6 @@ and parameters are fully stated in `FORMULAS.md` and the relevant `claims/eviden
 - The employment dial (`d_emp`) is the contested parameter; the growth ladder spans published estimates.
 - Tier populations are approximate (pin to Census SPM before quoting).
 - No output is an established magnitude — see `CLAIMS.md` (row M0).
+| `model/household_stress.py` | Month-by-month household cash-flow engine (six calibrated archetypes; threshold events per the shipped pre-registration lock) | Deterministic monthly simulator; shock grids run per the locked metrics M1–M7 | Grids and thresholds per `preregistration/` locks | RT1, F7; OQ-HH-005/006/007 |
+| `model/econ014_phase2.py` | Phase-2 tests: four-arm wrapper comparison, benefits-dial grid, recovery-participation kernel | Arms/horizons/funding identities per lock v1 §4; dials per the v1.1 addendum; mid-run fix log in header | Leakage swept literature-low/central/high | RT1, F7, F6; OQ-MD-007 |
+| `run_household.py` | One-command reproduction: run any `household_scenarios/*.yml` through the engine | Reads a scenario file, prints threshold months and tier labels | Edit the YAML, rerun — the falsify-by-scenario-file surface | All household-study claims |

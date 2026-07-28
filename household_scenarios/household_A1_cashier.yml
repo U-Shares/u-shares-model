@@ -1,0 +1,81 @@
+# ECON-014 household scenario file -- EDIT AND RERUN ME.
+# Calibrated archetype: model inputs under stated assumptions -- never "a typical family."
+# Every parameter carries kind metadata: observed (sourced statistic) / derived (stated
+# rule over sourced statistics) / policy (statutory or design dial) / scenario
+# (scenario assumption) / behavioral (literature-anchored assumption).
+# Pre-registration: ECON-014_Preregistration_Lock_v1.md (+ v1.1 addendum) -- both shipped;
+# date-precedence is checkable. Dollar outputs are internal; published outputs are months,
+# orderings, and verdicts (deterministic incidence -- no probabilities).
+# Run:  python run_household.py <this file>
+# Falsify: change a shock, a threshold assumption, or a calibration value; rerun; compare.
+study: ECON-014 Household Resilience Stress Test
+archetype: A1_continental_cashier
+description: sole earner, family of four (Ch 3 sec 7 calibration)
+sources:
+  CE2024: 'BLS Consumer Expenditures 2024 (A01): lowest-quintile avg annual expenditures $35,046; housing
+    share 41.6%; food $5,498/yr (15.7%)'
+  SCF2022: 'Fed SCF 2022: median transaction accounts, bottom income quintile $900 (top decile $111,600);
+    median revolving balance conditional on carrying $2,700 (all families)'
+  SHED2024: 'Fed SHED 2024: 37% of adults could not cover a $400 emergency expense in cash or equivalent
+    (sanity anchor only, not a model input)'
+  SSI2026: 'SSA 2026 COLA: SSI FBR $994/mo individual, $1,491 couple; resource limit $2,000/$3,000 (42
+    USC 1382, statute)'
+  SNAP_FY26: 'USDA FNS FY2026 COLA memo: max allotment family of four $994/mo (48 states + DC)'
+  UI: 'DOL/NELP/StLouisFed: UI replaces ~40% of prior wages nationally (state range ~43-67%)'
+  FPL2025: 'HHS 2025 poverty guidelines: $15,650 individual; $32,150 family of four; $64,300 at 200% (corpus-verified
+    anchor)'
+  CH3: 'Ch 3 sec 7 + sourcing note 2026-07-26: A1 income $31,000; placement $2,800 at 5% = $140/yr (corpus-verified
+    anchor)'
+closure_rule: 'DOCUMENTED SUBSTITUTION (lock section 6 rule): CE dollar LEVELS are per consumer unit (avg
+  1.7-2.4 persons) and do not transfer to specific household sizes; archetype budgets therefore apply
+  CE lowest-quintile category SHARES (observed) to household monthly resources (income + transfers), with
+  the category splits (rent/utilities/operations = 65/25/10 of the CE housing category) as derived assumptions.
+  Baselines close by construction; the shock arithmetic on top is the study object.'
+parameters:
+  household_size: 4
+  labor_monthly:
+    value: 2583.33
+    kind: observed
+    source: 'CH3: $31,000/yr sole earner, family of four (below 100% FPL of $32,150)'
+  transfers_monthly:
+    value: 1230.0
+    kind: derived
+    source: 'SNAP ~$480 (FY26 formula: max $994 - 0.3 x net income, approx) + EITC/CTC ~$750/mo annualized
+      (~$9,000/yr at $31k, 2 children, statutory formulas). Annual credits smoothed monthly; lumpiness
+      flagged.'
+  seasonal_profile: null
+  shares:
+    housing_cat: 0.416
+    food: 0.157
+    transport: 0.15
+    healthcare: 0.085
+  shares_kind: observed (CE2024 lowest-quintile shares; transport/healthcare approximated from lowest-quintile
+    pattern, derived)
+  liquid_start:
+    value: 900.0
+    kind: observed
+    source: SCF2022 bottom-quintile median transaction accounts
+  debt_start:
+    value: 1000.0
+    kind: derived
+    source: SCF2022 $2,700 median conditional revolving balance (all families), scaled down for bottom
+      quintile; approximation documented per substitution rule
+  ui_eligible: true
+placement:
+  value: 2800.0
+  kind: policy
+  source: CH3
+  note: single placement; dividend = 5% of this, per year
+scenario:
+  shock_mult:
+    value: 0.5
+    kind: scenario
+    note: labor income multiplier; 0.5 = a -50% loss
+  shock_months:
+    value: 60
+    kind: scenario
+    note: 60 = sustained through the horizon
+  div_mode_arms:
+  - 'off'
+  - 'on'
+  horizon_months: 60

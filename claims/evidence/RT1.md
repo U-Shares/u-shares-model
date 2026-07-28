@@ -37,6 +37,19 @@ disability-gated (ABLE). Conversion-to-capital (unique to this design) has no ou
 ## Disconfirming test (register)
 An empirical ρ estimate under comparable wrappers materially below the dispersion model's requirement.
 
+## Annotation — household stress study, Phase 1 *(added 2026-07-26; status-neutral)*
+At a single $2,800 placement under sustained severe income shocks, dividend effects are mostly
+arithmetic-tier (runway extension) rather than threshold-tier — the study's pre-registered
+"too-small-to-matter" adverse possibility PARTIALLY materialized and is reported here per its
+bidirectional commitment (final adjudication in the second phase). The counter-structure in the same
+map: threshold-tier value concentrates under income VOLATILITY (calibrated seasonal-worker archetype:
+high-cost-borrowing entry delayed +6 months at $2,800 under a −50% shock, with a clean placement-size
+dose–response reaching AVOIDED at accumulated-holdings scale), and a market crash to −80% produces
+zero threshold events in any arm — the floor severs the crash-to-budget channel structurally. All
+figures are calibrated-archetype model outputs under stated assumptions, reproducible from the shipped
+scenario files; deterministic incidence, not probabilities; dollar magnitudes held (M0). The
+pre-registration lock ships in this release for date verification.
+
 ## Sources / provenance
 Retirement-leakage literature (401(k)/IRA cashout and hardship studies — the retention anchor);
 `h6_household_pooling.py`, `h1_retest.py` (ECON-005 line); §530A verification memo (2026-07-18); ABLE

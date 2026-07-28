@@ -1,0 +1,8651 @@
+{
+ "_locks": [
+  "ECON-014_Preregistration_Lock_v1.md",
+  "ECON-014_Preregistration_Lock_v1.1_TH_Addendum.md"
+ ],
+ "_date": "2026-07-26",
+ "T-D": {
+  "A1_continental_cashier": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 6,
+       "TH-7": 182,
+       "TH-2": 182,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 862.51,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 4122.45,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4634.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 12112.19,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 40121.68,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6,
+         "TH-7": 182,
+         "TH-2": 182,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 6,
+       "TH-7": 182,
+       "TH-2": 183,
+       "TH-5": 185
+      },
+      "snapshots": {
+       "3": {
+        "asset": 976.8,
+        "debt": 998.37,
+        "liquid": 67.55,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 3948.54,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4454.9,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 11856.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 39605.91,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6,
+         "TH-7": 182,
+         "TH-2": 183,
+         "TH-5": 185
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 11,
+       "TH-7": 187,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1747.23,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2187.55,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8624.09,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28132.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11,
+         "TH-7": 187,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 133,
+       "TH-2": 182,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 725.28,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 4302.81,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4819.8,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 12377.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 41694.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 133,
+         "TH-2": 182,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 6,
+       "TH-7": 182,
+       "TH-2": 183,
+       "TH-5": 185
+      },
+      "snapshots": {
+       "3": {
+        "asset": 960.82,
+        "debt": 998.37,
+        "liquid": 67.52,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 3972.96,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4480.06,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 11892.66,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 39898.42,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6,
+         "TH-7": 182,
+         "TH-2": 183,
+         "TH-5": 185
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 11,
+       "TH-7": 187,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 988.33,
+        "liquid": 88.16,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1779.19,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2220.47,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8671.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28135.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11,
+         "TH-7": 187,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 133,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 551.09,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 4515.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 5039.17,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 12689.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 44006.11,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 133,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 6,
+       "TH-7": 182,
+       "TH-2": 182,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 923.18,
+        "debt": 998.37,
+        "liquid": 67.46,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 4028.9,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4537.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 11974.8,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 40089.04,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 6,
+         "TH-7": 182,
+         "TH-2": 182,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 10,
+       "TH-7": 186,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 988.33,
+        "liquid": 88.04,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1843.1,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2286.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8764.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28199.12,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10,
+         "TH-7": 186,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 9,
+       "TH-7": 185,
+       "TH-2": 186,
+       "TH-5": 188
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2464.31,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 2528.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 9
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2992.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 9
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 9771.12,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 9
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 29767.52,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 9,
+         "TH-7": 185,
+         "TH-2": 186,
+         "TH-5": 188
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 10,
+       "TH-7": 186,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 995.33,
+        "liquid": 73.79,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1896.66,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2341.46,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8843.54,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28359.01,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10,
+         "TH-7": 186,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 11,
+       "TH-7": 187,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1747.23,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2187.55,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8624.09,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28132.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11,
+         "TH-7": 187,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 8,
+       "TH-7": 184,
+       "TH-2": 184,
+       "TH-5": 186
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2072.23,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 3082.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 3562.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 10584.69,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 32588.64,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 8,
+         "TH-7": 184,
+         "TH-2": 184,
+         "TH-5": 186
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 10,
+       "TH-7": 186,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2745.21,
+        "debt": 995.33,
+        "liquid": 73.71,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1992.24,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2439.91,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8983.91,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28644.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10,
+         "TH-7": 186,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 11,
+       "TH-7": 187,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 988.33,
+        "liquid": 88.16,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1779.19,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2220.47,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8671.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28135.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 11,
+         "TH-7": 187,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 7,
+       "TH-7": 183,
+       "TH-2": 183,
+       "TH-5": 185
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1574.56,
+        "debt": 1000.0,
+        "liquid": 64.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 3637.26,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 4134.28,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 11399.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 36314.35,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7,
+         "TH-7": 183,
+         "TH-2": 183,
+         "TH-5": 185
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 10,
+       "TH-7": 186,
+       "TH-2": 186,
+       "TH-5": 188
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2637.67,
+        "debt": 995.33,
+        "liquid": 73.53,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 2200.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2654.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 9289.44,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28977.99,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10,
+         "TH-7": 186,
+         "TH-2": 186,
+         "TH-5": 188
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 132,
+       "TH-2": 133,
+       "TH-5": 184
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 988.33,
+        "liquid": 88.22,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 5000.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 5526.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 13218.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 44288.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 132,
+         "TH-2": 133,
+         "TH-5": 184
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 10,
+       "TH-7": 186,
+       "TH-2": 187,
+       "TH-5": 189
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 988.33,
+        "liquid": 88.04,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 1843.1,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 2286.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 8764.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 28199.12,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 10,
+         "TH-7": 186,
+         "TH-2": 187,
+         "TH-5": 189
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "A2_consuela_seasonal": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 62
+      },
+      "snapshots": {
+       "3": {
+        "asset": 862.51,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 479.28,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 50.16,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 2042.19,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6499.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 11,
+       "TH-3": 70
+      },
+      "snapshots": {
+       "3": {
+        "asset": 976.8,
+        "debt": 798.37,
+        "liquid": 718.93,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 871.38,
+        "debt": 798.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "60": {
+        "asset": 740.85,
+        "debt": 665.45,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 986.13,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 70
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 4353.04,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 70
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3497.75,
+        "debt": 0.0,
+        "liquid": 344.38,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 4091.52,
+        "debt": 0.0,
+        "liquid": 1619.9,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 6664.66,
+        "debt": 0.0,
+        "liquid": 3542.64,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 62
+      },
+      "snapshots": {
+       "3": {
+        "asset": 725.28,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 192.46,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 0.81,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 2107.71,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6632.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 11,
+       "TH-3": 67
+      },
+      "snapshots": {
+       "3": {
+        "asset": 960.82,
+        "debt": 798.37,
+        "liquid": 718.9,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 809.62,
+        "debt": 798.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "60": {
+        "asset": 523.96,
+        "debt": 686.75,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 1276.39,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 67
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 4943.06,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 67
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 788.33,
+        "liquid": 739.54,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2881.2,
+        "debt": 788.33,
+        "liquid": 16.52,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3158.59,
+        "debt": 0.0,
+        "liquid": 297.85,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 3229.78,
+        "debt": 0.0,
+        "liquid": 1532.42,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 4298.6,
+        "debt": 0.0,
+        "liquid": 3097.67,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 551.09,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 6.79,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 885.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 2230.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6882.63,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 11,
+       "TH-3": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 923.18,
+        "debt": 798.37,
+        "liquid": 718.84,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 675.94,
+        "debt": 798.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "60": {
+        "asset": 224.95,
+        "debt": 723.87,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 1701.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 5807.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 11,
+         "TH-3": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 788.33,
+        "liquid": 739.42,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2763.6,
+        "debt": 788.33,
+        "liquid": 13.92,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2559.1,
+        "debt": 0.0,
+        "liquid": 206.85,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 1935.93,
+        "debt": 0.0,
+        "liquid": 1392.05,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 1698.48,
+        "debt": 0.0,
+        "liquid": 2503.13,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 63
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2464.31,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 1571.28,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 191.69,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 1863.26,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 63
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6136.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 63
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 12
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 795.33,
+        "liquid": 725.17,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2701.83,
+        "debt": 795.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "60": {
+        "asset": 2480.95,
+        "debt": 352.64,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "120": {
+        "asset": 1476.58,
+        "debt": 0.0,
+        "liquid": 819.45,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "240": {
+        "asset": 1295.47,
+        "debt": 0.0,
+        "liquid": 1763.23,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3497.75,
+        "debt": 0.0,
+        "liquid": 344.38,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 4091.52,
+        "debt": 0.0,
+        "liquid": 1619.9,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 6664.66,
+        "debt": 0.0,
+        "liquid": 3542.64,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 62
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2072.23,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 738.46,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 5.23,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 2102.18,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6621.72,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 12
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2745.21,
+        "debt": 795.33,
+        "liquid": 725.09,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2524.14,
+        "debt": 795.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "60": {
+        "asset": 1775.88,
+        "debt": 419.64,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "120": {
+        "asset": 535.89,
+        "debt": 0.0,
+        "liquid": 615.42,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "240": {
+        "asset": 160.94,
+        "debt": 0.0,
+        "liquid": 1503.23,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 788.33,
+        "liquid": 739.54,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2881.2,
+        "debt": 788.33,
+        "liquid": 16.52,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3158.59,
+        "debt": 0.0,
+        "liquid": 297.85,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 3229.78,
+        "debt": 0.0,
+        "liquid": 1532.42,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 4298.6,
+        "debt": 0.0,
+        "liquid": 3097.67,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 62
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1574.56,
+        "debt": 800.0,
+        "liquid": 715.57,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 188.79,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 0.01,
+        "debt": 800.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 2108.72,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 6635.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 62
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 12,
+       "TH-3": 70
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2637.67,
+        "debt": 795.33,
+        "liquid": 724.91,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2139.13,
+        "debt": 795.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "60": {
+        "asset": 788.66,
+        "debt": 537.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 826.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12,
+         "TH-3": 70
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 4027.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 12,
+         "TH-3": 70
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 13,
+       "TH-3": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 788.33,
+        "liquid": 739.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 788.33,
+        "liquid": 17.81,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 159.18,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 940.79,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3007.61,
+        "th_so_far": {
+         "TH8_counterfactual": 13,
+         "TH-3": 13
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 13
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 788.33,
+        "liquid": 739.42,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2763.6,
+        "debt": 788.33,
+        "liquid": 13.92,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2559.1,
+        "debt": 0.0,
+        "liquid": 206.85,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "120": {
+        "asset": 1935.93,
+        "debt": 0.0,
+        "liquid": 1392.05,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       },
+       "240": {
+        "asset": 1698.48,
+        "debt": 0.0,
+        "liquid": 2503.13,
+        "th_so_far": {
+         "TH-8": 13
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "A3_daniel_ssi_household": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 862.51,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 588.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 76.2,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 5.93,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.04,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 976.8,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 967.26,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 917.93,
+        "debt": 0.0,
+        "liquid": 1575.45,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 859.8,
+        "debt": 0.0,
+        "liquid": 1646.13,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 754.34,
+        "debt": 0.0,
+        "liquid": 1774.33,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 725.28,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 294.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2.38,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.01,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 960.82,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 905.52,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 660.06,
+        "debt": 0.0,
+        "liquid": 1562.44,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 444.58,
+        "debt": 0.0,
+        "liquid": 1604.49,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 201.68,
+        "debt": 0.0,
+        "liquid": 1651.89,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2881.2,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3230.24,
+        "debt": 0.0,
+        "liquid": 2027.89,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 3726.59,
+        "debt": 0.0,
+        "liquid": 2505.06,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 4959.82,
+        "debt": 0.0,
+        "liquid": 3326.26,
+        "th_so_far": {}
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 551.09,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 98.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 0.01,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 923.18,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 771.75,
+        "debt": 0.0,
+        "liquid": 1501.63,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 296.81,
+        "debt": 0.0,
+        "liquid": 1540.51,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 89.89,
+        "debt": 0.0,
+        "liquid": 1552.77,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 8.25,
+        "debt": 0.0,
+        "liquid": 1557.61,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2763.6,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2622.67,
+        "debt": 0.0,
+        "liquid": 1968.22,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 2456.57,
+        "debt": 0.0,
+        "liquid": 2311.85,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 2155.27,
+        "debt": 0.0,
+        "liquid": 2749.12,
+        "th_so_far": {}
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2464.31,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 1680.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 217.73,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 16.93,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.1,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2763.6,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2622.67,
+        "debt": 0.0,
+        "liquid": 1715.58,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 2456.57,
+        "debt": 0.0,
+        "liquid": 1917.51,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 2155.27,
+        "debt": 0.0,
+        "liquid": 2283.8,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2072.23,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 840.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 6.8,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.02,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2745.21,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2587.2,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 1885.9,
+        "debt": 0.0,
+        "liquid": 1678.39,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 1270.22,
+        "debt": 0.0,
+        "liquid": 1798.54,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 576.23,
+        "debt": 0.0,
+        "liquid": 1933.97,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2881.2,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3230.24,
+        "debt": 0.0,
+        "liquid": 2027.89,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 3726.59,
+        "debt": 0.0,
+        "liquid": 2505.06,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 4959.82,
+        "debt": 0.0,
+        "liquid": 3326.26,
+        "th_so_far": {}
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 1574.56,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 280.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 0.03,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 0.0,
+        "liquid": 1500.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm2": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2637.67,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2205.0,
+        "debt": 0.0,
+        "liquid": 1504.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 848.03,
+        "debt": 0.0,
+        "liquid": 1615.73,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 256.84,
+        "debt": 0.0,
+        "liquid": 1650.78,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 23.56,
+        "debt": 0.0,
+        "liquid": 1664.61,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm3": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 0.0,
+        "liquid": 2060.0,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 0.0,
+        "liquid": 2620.0,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 0.0,
+        "liquid": 3740.0,
+        "th_so_far": {}
+       }
+      }
+     },
+     "arm4": {
+      "first": {},
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2763.6,
+        "debt": 0.0,
+        "liquid": 1511.67,
+        "th_so_far": {}
+       },
+       "60": {
+        "asset": 2622.67,
+        "debt": 0.0,
+        "liquid": 1968.22,
+        "th_so_far": {}
+       },
+       "120": {
+        "asset": 2456.57,
+        "debt": 0.0,
+        "liquid": 2311.85,
+        "th_so_far": {}
+       },
+       "240": {
+        "asset": 2155.27,
+        "debt": 0.0,
+        "liquid": 2749.12,
+        "th_so_far": {}
+       }
+      }
+     }
+    }
+   }
+  },
+  "A4_displaced_worker": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 6,
+       "TH-7": 122,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 862.51,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 9007.45,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 10023.0,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 24868.19,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 66013.59,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6,
+         "TH-7": 122,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 6,
+       "TH-7": 122,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 976.8,
+        "debt": 2698.37,
+        "liquid": 850.69,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 8818.13,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 9828.0,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 24590.17,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 63746.23,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6,
+         "TH-7": 122,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6546.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7488.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21254.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51246.75,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 725.28,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 9215.35,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 10237.14,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 25173.5,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 68503.49,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 6,
+       "TH-7": 122,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 960.82,
+        "debt": 2698.37,
+        "liquid": 850.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 8844.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 9855.28,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 24629.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 64063.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6,
+         "TH-7": 122,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 2688.33,
+        "liquid": 871.31,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6576.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7519.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21298.13,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51257.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 551.09,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 9462.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 10491.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 25536.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 69232.31,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 6,
+       "TH-7": 122,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 923.18,
+        "debt": 2698.37,
+        "liquid": 850.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 8905.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 9917.86,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 24718.29,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 64791.07,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 6,
+         "TH-7": 122,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2688.33,
+        "liquid": 871.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6636.0,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7580.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21385.63,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51277.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 7,
+       "TH-7": 124,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2464.31,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 7306.17,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 8270.69,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 22369.81,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 56930.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7,
+         "TH-7": 124,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2695.33,
+        "liquid": 856.93,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6686.31,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7632.23,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21459.52,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51295.38,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6546.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7488.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21254.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51246.75,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 7,
+       "TH-7": 123,
+       "TH-2": 124,
+       "TH-5": 126
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2072.23,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 7897.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 8879.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 23238.24,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 58450.27,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 7,
+         "TH-7": 123,
+         "TH-2": 124,
+         "TH-5": 126
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2745.21,
+        "debt": 2695.33,
+        "liquid": 856.86,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6775.45,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7724.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21590.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51326.48,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 2688.33,
+        "liquid": 871.31,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6576.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7519.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21298.13,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51257.05,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 6,
+       "TH-7": 123,
+       "TH-2": 123,
+       "TH-5": 125
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1574.56,
+        "debt": 2700.0,
+        "liquid": 847.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 8544.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 9546.23,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 24188.42,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 63087.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 6,
+         "TH-7": 123,
+         "TH-2": 123,
+         "TH-5": 125
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 124,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2637.67,
+        "debt": 2695.33,
+        "liquid": 856.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6974.74,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7929.32,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21883.1,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 52961.25,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 124,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 5,
+       "TH-3": 5,
+       "TH-7": 122,
+       "TH-2": 122,
+       "TH-5": 124
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 871.37,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 9859.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 10888.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 25937.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 68156.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 5,
+         "TH-3": 5,
+         "TH-7": 122,
+         "TH-2": 122,
+         "TH-5": 124
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 5,
+       "TH-3": 8,
+       "TH-7": 125,
+       "TH-2": 125,
+       "TH-5": 127
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2688.33,
+        "liquid": 871.19,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 6636.0,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 7580.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 21385.63,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 51277.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 5,
+         "TH-3": 8,
+         "TH-7": 125,
+         "TH-2": 125,
+         "TH-5": 127
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "A5_young_family": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 30,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 862.51,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21691.2,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 55860.55,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 284928.7,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9585689.11,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 4,
+       "TH-7": 31,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 976.8,
+        "debt": 2698.37,
+        "liquid": 840.69,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21537.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 55227.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 281198.28,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9456202.44,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 40,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19176.49,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45469.16,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 223706.74,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7460614.32,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 30,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 725.28,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21865.03,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 56578.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 289160.86,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9732591.51,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 4,
+       "TH-7": 31,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 960.82,
+        "debt": 2698.37,
+        "liquid": 840.66,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21558.27,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 55311.28,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 281692.6,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9473360.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 31,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 40,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 2688.33,
+        "liquid": 861.3,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19197.71,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45556.82,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 224223.2,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7478541.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 29,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 551.09,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 22085.69,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 57490.69,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 29
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 294532.82,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 29,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9919057.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 29,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 4,
+       "TH-7": 30,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 923.18,
+        "debt": 2698.37,
+        "liquid": 840.6,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21606.11,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 55508.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 30
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 282857.31,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 9513789.1,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 4,
+         "TH-7": 30,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 39,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2688.33,
+        "liquid": 861.18,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19240.98,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45735.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 225276.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7515106.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 37,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2464.31,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19769.65,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 47920.24,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 37
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 238147.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 37,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7961870.09,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 37,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 39,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2695.33,
+        "liquid": 846.93,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19280.79,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45900.13,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 226245.84,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7548748.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 40,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19176.49,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45469.16,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 223706.74,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7460614.32,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 35,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2072.23,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20286.55,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 50056.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 35
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 250731.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 35,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 8398682.72,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 35,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 39,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2745.21,
+        "debt": 2695.33,
+        "liquid": 846.85,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19347.36,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 46175.24,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 227866.68,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7605010.01,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 40,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2820.08,
+        "debt": 2688.33,
+        "liquid": 861.3,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19197.71,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45556.82,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 224223.2,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7478541.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 40,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 5,
+       "TH-7": 33,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1574.56,
+        "debt": 2700.0,
+        "liquid": 837.33,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20872.37,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 52476.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 33
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 264993.97,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 33,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 8893734.76,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 5,
+         "TH-7": 33,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 38,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2637.67,
+        "debt": 2695.33,
+        "liquid": 846.67,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19502.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 46815.12,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 38
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 231636.6,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 38,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7735867.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 38,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 4,
+       "TH-3": 4,
+       "TH-7": 28,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 2688.33,
+        "liquid": 861.36,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 22619.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 58478.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 299116.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 10069641.56,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 4,
+         "TH-3": 4,
+         "TH-7": 28,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 4,
+       "TH-3": 5,
+       "TH-7": 39,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2790.86,
+        "debt": 2688.33,
+        "liquid": 861.18,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19240.98,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 45735.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 225276.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 7515106.41,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 4,
+         "TH-3": 5,
+         "TH-7": 39,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "A6_working_caregiver": {
+   "I1_equal_public_cost": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2199.98,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20699.71,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80529.71,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 461715.08,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15938828.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2117.14,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20591.62,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80083.06,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 459083.64,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15847488.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1251.97,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18178.68,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70112.16,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 400339.07,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13808406.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2298.17,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20827.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80726.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 462876.46,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15979141.34,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2127.86,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20605.61,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80140.85,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 459424.09,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15859306.18,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1240.3,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18193.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70173.54,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 400700.66,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13820957.81,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2432.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 21002.88,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80747.9,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 463000.59,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15983449.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 0.0,
+        "debt": 2153.35,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 20638.87,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 80278.28,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 460233.81,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 15887412.36,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1216.43,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18223.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70299.01,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 401439.9,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13846617.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    }
+   },
+   "I2_equal_recipient_value": {
+    "low": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 930.99,
+        "debt": 1500.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18607.04,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 71882.26,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 410767.74,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 14170396.24,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1202.19,
+        "debt": 1495.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18254.87,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70427.02,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 402194.04,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13872794.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1251.97,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18178.68,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70112.16,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 400339.07,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13808406.67,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "central": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 16,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 624.97,
+        "debt": 1500.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18994.7,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 73484.16,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 16
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 420205.55,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 16,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 14497992.0,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 16,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1165.18,
+        "debt": 1495.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18301.83,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70621.07,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 403337.35,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13912480.11,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1240.3,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18193.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70173.54,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 400700.66,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13820957.81,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    },
+    "high": {
+     "arm1": {
+      "first": {
+       "TH-3": 4,
+       "TH-7": 15,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 253.91,
+        "debt": 1500.0,
+        "liquid": 0.0,
+        "th_so_far": {}
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 19464.75,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 75426.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 15
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 431649.21,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 15,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 14895212.57,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-3": 4,
+         "TH-7": 15,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm2": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1078.36,
+        "debt": 1495.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18411.99,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 71076.26,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 406019.14,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 14005567.68,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm3": {
+      "first": {
+       "TH8_counterfactual": 3,
+       "TH-3": 3,
+       "TH-7": 13,
+       "TH-2": 13,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 2834.36,
+        "debt": 3064.3,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "12": {
+        "asset": 2940.0,
+        "debt": 21708.92,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3
+        }
+       },
+       "60": {
+        "asset": 3573.59,
+        "debt": 79661.58,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13
+        }
+       },
+       "120": {
+        "asset": 4560.9,
+        "debt": 455362.43,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 7429.23,
+        "debt": 15709789.77,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH8_counterfactual": 3,
+         "TH-3": 3,
+         "TH-7": 13,
+         "TH-2": 13,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     },
+     "arm4": {
+      "first": {
+       "TH-8": 3,
+       "TH-3": 4,
+       "TH-7": 17,
+       "TH-2": 62,
+       "TH-4": 63,
+       "TH-5": 64
+      },
+      "snapshots": {
+       "3": {
+        "asset": 1216.43,
+        "debt": 1488.33,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3
+        }
+       },
+       "12": {
+        "asset": 0.0,
+        "debt": 18223.89,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4
+        }
+       },
+       "60": {
+        "asset": 0.0,
+        "debt": 70299.01,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17
+        }
+       },
+       "120": {
+        "asset": 0.0,
+        "debt": 401439.9,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       },
+       "240": {
+        "asset": 0.0,
+        "debt": 13846617.53,
+        "liquid": 0.0,
+        "th_so_far": {
+         "TH-8": 3,
+         "TH-3": 4,
+         "TH-7": 17,
+         "TH-2": 62,
+         "TH-4": 63,
+         "TH-5": 64
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ },
+ "T-H": {
+  "A1_continental_cashier": {
+   "program_frame": "SNAP_default_and_BBCE",
+   "cells": {
+    "P2800_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 51,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 51,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 51,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 51,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    }
+   }
+  },
+  "A2_consuela_seasonal": {
+   "program_frame": "SNAP_plus_voucher",
+   "cells": {
+    "P2800_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P2800_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 51,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 51,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 51,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 51,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    },
+    "P10000_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": "no asset test - eligibility loss n/a"
+    }
+   }
+  },
+  "A3_daniel_ssi_household": {
+   "program_frame": "SSI_Medicaid",
+   "cells": {
+    "P2800_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P2800_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 43,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 43,
+     "note_BBCE": null
+    },
+    "P2800_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 43,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 43,
+     "note_BBCE": null
+    },
+    "P2800_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P2800_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S0_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S0_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": 1,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 1,
+     "note_BBCE": null
+    },
+    "P10000_S1_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": 13,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": 13,
+     "note_BBCE": null
+    },
+    "P10000_S1_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S1_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S1_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S1_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": 13,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": 13,
+     "note_BBCE": null
+    },
+    "P10000_S1_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S1_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S1_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F0_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F0_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F0_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F0_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": 1,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F1_save_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F1_save_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F1_consume_baseline": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    },
+    "P10000_S2_F1_consume_shock50": {
+     "eligibility_loss_month_default_variant": null,
+     "benefit_reduction_month_F0": null,
+     "TH6_month": null,
+     "note_BBCE": null
+    }
+   }
+  }
+ },
+ "T-F": {
+  "yr0.5": {
+   "none": {
+    "b40_share": 0.3758,
+    "cohort_share": 0.0895
+   },
+   "benefit_flow": {
+    "b40_share": 0.3764,
+    "cohort_share": 0.0904
+   },
+   "permanent_transfer": {
+    "b40_share": 0.3561,
+    "cohort_share": 0.1586
+   },
+   "ushare_owner": {
+    "b40_share": 0.3764,
+    "cohort_share": 0.0904
+   }
+  },
+  "yr1.0": {
+   "none": {
+    "b40_share": 0.3214,
+    "cohort_share": 0.0899
+   },
+   "benefit_flow": {
+    "b40_share": 0.3269,
+    "cohort_share": 0.0922
+   },
+   "permanent_transfer": {
+    "b40_share": 0.3057,
+    "cohort_share": 0.1601
+   },
+   "ushare_owner": {
+    "b40_share": 0.3273,
+    "cohort_share": 0.0923
+   }
+  },
+  "yr2.0": {
+   "none": {
+    "b40_share": 0.2928,
+    "cohort_share": 0.0916
+   },
+   "benefit_flow": {
+    "b40_share": 0.3037,
+    "cohort_share": 0.0946
+   },
+   "permanent_transfer": {
+    "b40_share": 0.2787,
+    "cohort_share": 0.164
+   },
+   "ushare_owner": {
+    "b40_share": 0.3046,
+    "cohort_share": 0.0946
+   }
+  },
+  "yr5.0": {
+   "none": {
+    "b40_share": 0.229,
+    "cohort_share": 0.0856
+   },
+   "benefit_flow": {
+    "b40_share": 0.2586,
+    "cohort_share": 0.09
+   },
+   "permanent_transfer": {
+    "b40_share": 0.2205,
+    "cohort_share": 0.1616
+   },
+   "ushare_owner": {
+    "b40_share": 0.2605,
+    "cohort_share": 0.0898
+   }
+  },
+  "yr10.0": {
+   "none": {
+    "b40_share": 0.1765,
+    "cohort_share": 0.081
+   },
+   "benefit_flow": {
+    "b40_share": 0.23,
+    "cohort_share": 0.0875
+   },
+   "permanent_transfer": {
+    "b40_share": 0.1701,
+    "cohort_share": 0.1642
+   },
+   "ushare_owner": {
+    "b40_share": 0.234,
+    "cohort_share": 0.0867
+   }
+  }
+ }
+}

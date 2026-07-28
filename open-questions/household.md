@@ -52,3 +52,47 @@ excess paternalism or welfare loss?
 - **Links to claim.** F7 (poverty-first ladder — its deepest-tier inversion risk) · RT1 (retention) ·
   CP1 (the §530A precedent/rails).
 - **Route.** Falsification (published benefits-interaction evidence) / extension (disregard design).
+
+### OQ-HH-005 — The flow-side disregard gap *(added 2026-07-26 — household stress study)*
+- **Question.** Must the statutory asset-disregard extend to *dividend-derived savings* (ABLE-style,
+  the §529A/§530A drafting pattern), not just account principal, for U-Shares to function at the SSI
+  tier? Under a principal-only disregard, a calibrated SSI-household archetype that saves its dividend
+  crosses the $2,000 resource limit at month 43 — the design would punish the deepest-tier household
+  for accumulating, which is the behavior the program exists to produce. (Calibrated-archetype model
+  output under stated assumptions; reproducible from the shipped archetype and engine files.)
+- **What an answer would look like.** A legal-drafting analysis mapping the disregard across SSI, the
+  SSI-linked Medicaid pathway, SNAP variants, and HOTMA housing rules — plus the study's second-phase
+  dial results (principal-only vs ABLE-style; income-counted vs income-excluded) quantifying what each
+  drafting variant is worth in months-to-breach and eligibility retention (pre-registered; the
+  addendum ships with this release).
+- **Links to claim.** F7 (deepest-tier reach) · RT1 (retention under wrappers) · OQ-HH-004 (the
+  benefits-cliff line of work).
+- **Route.** Falsification / drafting analysis; the in-house dial test is pre-registered.
+
+### OQ-HH-006 — Dividend value conditional on emergency-credit terms *(added 2026-07-26 — household stress study)*
+- **Question.** How much of the dividend's household-resilience value is conditional on the
+  emergency-credit regime (APR, credit access) the household faces? The Phase-1 sensitivity sweep
+  flipped 44 of 104 threshold verdicts — overwhelmingly on the APR (24%→400%) and credit-cap dials,
+  not on dividend presence. Directionally: credit terms move household failure timelines more than a
+  single-placement dividend does. An interaction, recorded honestly; not a policy proposal.
+- **What an answer would look like.** An empirical mapping of the credit regimes low-wealth households
+  actually face (payday and revolving-credit literatures) joined to the study's cliff map — under
+  which regimes does the dividend's threshold-tier value survive, and under which is it swamped?
+- **Links to claim.** RT1 · DS1 (the household side of dispersion).
+- **Route.** Empirical joining (literature × cliff map); reproduction invited.
+
+### OQ-HH-007 — Hardship-valve calibration *(added 2026-07-28 — household stress study, Phase 2)*
+- **Question.** What hardship-access rule (caps, replenishment, draw conditions) preserves the
+  wrapper's volatility-protection result without the deep-distress drain? The study's second phase
+  found the sharp version of both edges: an *uncalibrated* valve converts the protected account to
+  cash under deep sustained distress (fully drained in the first crisis), while against
+  volatility-scale draws the same valve protects both the household AND most of the stake
+  (calibrated seasonal-worker archetype: no borrowing, no housing failure, majority of the account
+  retained at the 20-year mark). The empirical shape is now known; the design answer is open.
+- **What an answer would look like.** Access-rule variants (draw caps per period, replenishment
+  requirements, qualifying-event conditions) run through the shipped four-arm apparatus; a rule that
+  holds the volatility result while bounding the deep-distress drain.
+- **Links to claim.** RT1 (retention under wrappers) · OQ-HH-005 (the disregard's drafting) — an open
+  design question, not a policy proposal.
+- **Route.** Extension on the shipped apparatus (`run_household.py`, `model/household_stress.py`).
+

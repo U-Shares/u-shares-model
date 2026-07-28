@@ -4,6 +4,29 @@ Rolling cadence: every release entry states **which claims were added, changed s
 — so critics can cite the exact version they engaged. Statuses are maintainer-stewarded (see
 `GOVERNANCE.md`).
 
+## 2026-07-28 — v1.0.2 (the household stress study)
+
+**No claim added, changed status, or retired.** The complete pre-registered household stress study —
+both phases run under locks countersigned before any data extraction, all three pre-registered
+adverse possibilities explicitly adjudicated and published either way (locks ship with this release
+for date verification):
+- **Open questions 29 → 31:** OQ-HH-005 (the flow-side disregard gap — the month-43 SSI-limit breach
+  under a principal-only disregard), OQ-HH-006 (dividend value conditional on emergency-credit terms —
+  the 44/104 verdict-flip sensitivity finding).
+- **Evidence annotations (status-neutral):** RT1 and F7 carry the Phase-1 verdicts INCLUDING the
+  partially-materialized "too-small-to-matter" adverse possibility, per the study's bidirectional
+  commitment.
+- **Phase-2 additions:** OQ-HH-007 (hardship-valve calibration — the stickiness paradox's design
+  question), OQ-MD-007 (above-floor composition and recovery participation); F7 dial-table supplement
+  (the disregard variants in months, including the ~$4,800 income-side statutory breakpoint).
+  Register: 33 open questions.
+- **Ships with:** `model/household_stress.py` + `model/econ014_phase2.py` (engine + Phase-2 tests,
+  mid-run fix log in header), `model/econ014_archetypes.json` (per-parameter kinds + sources), both
+  results JSONs, `household_scenarios/` (six editable per-archetype scenario files) +
+  `run_household.py` (one-command reproduction), and both pre-registration locks under
+  `preregistration/` — shipped verbatim so readers can date-check that thresholds, metrics, and the
+  adverse possibilities were locked before any data was extracted.
+
 ## 2026-07-26 — v1.0.1 (first cadence release)
 
 **No claim added, changed status, or retired.** Rolling-cadence additions from a structured

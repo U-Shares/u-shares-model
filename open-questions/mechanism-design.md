@@ -70,3 +70,15 @@ incentive structure induce the firm behavior the mechanism needs?
   variants beyond t2c's permeability/rake dials; an analytic frontier if one exists.
 - **Links to claim.** DS1 (dispersion) · DR1 (the rail's κ) · GV1 (the flows-first protection ordering).
 - **Route.** Reproduction + extension (the harnesses ship in `model/`).
+
+### OQ-MD-007 — Above-floor account composition and recovery participation *(added 2026-07-28 — household stress study, Phase 2)*
+- **Question.** The floor's income is contractually independent of portfolio composition — 5% on
+  original issue price, an issuer obligation behind the guaranty — so the income-vs-appreciation
+  tension cannot touch floor income. The residual: does the composition of account holdings *above*
+  the floor materially change recovery-participation outcomes (the crash-into-boom class)?
+- **What an answer would look like.** Composition variants (floor-heavy vs appreciation-weighted
+  above-floor holdings) through a recovery-participation kernel with a household leakage channel;
+  or a design argument that composition above the floor is out of scope for the guarantee.
+- **Links to claim.** F6 (account design and the guaranty) · CP1 (comparators' composition rules).
+- **Route.** Extension (model-specification review).
+
