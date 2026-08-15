@@ -1,0 +1,113 @@
+{
+ "_gate": "2026-08-14_CSDA_Gate_ECON-016 (re-countersigned lock)",
+ "_run": "2026-08-15",
+ "A3_response_surface_per_1M_placed_STYLIZED": {
+  "share25_children_3321": 240.9,
+  "share25_adults_6000_stylized": 133.3,
+  "share25_disabled_19900_stylized": 40.2,
+  "share30_children_3321": 200.7,
+  "share30_adults_6000_stylized": 111.1,
+  "share30_disabled_19900_stylized": 33.5,
+  "share40_children_3321": 150.6,
+  "share40_adults_6000_stylized": 83.3,
+  "share40_disabled_19900_stylized": 25.1,
+  "share50_children_3321": 120.4,
+  "share50_adults_6000_stylized": 66.7,
+  "share50_disabled_19900_stylized": 20.1,
+  "expansion_adults_share10_6000": 333.3
+ },
+ "A4_illustration_HYPOTHETICAL": {
+  "inputs": {
+   "state_share": 0.4,
+   "blended_per_enrollee_cost": 8000,
+   "annual_placements": 10000000.0
+  },
+  "level1": {
+   "credit_cost": 2000000.0,
+   "state_saving_per_enrollee_year": 3200.0,
+   "breakeven_enrollee_years": 625.0,
+   "enrollee_years_per_1M_placed": 62.5
+  },
+  "level2_without_state_inputs": {
+   "status": "STATE SUPPLIES",
+   "missing_parameters": [
+    "realization_factor",
+    "enrollment_channel_share",
+    "credit_timing_years"
+   ],
+   "note": "Level 2 is computable only when the state analyst supplies these; defaults are deliberately absent (gate L7/A8)."
+  },
+  "level2_sensitivity_realization": {
+   "0.3": 2083,
+   "0.6": 1042,
+   "1.0": 625
+  },
+  "timing_stylized_ramp": {
+   "path": [
+    {
+     "year": 1,
+     "cum_credit": 2000000,
+     "cum_recapture": 0,
+     "cum_deficit": 2000000
+    },
+    {
+     "year": 2,
+     "cum_credit": 4000000,
+     "cum_recapture": 128000,
+     "cum_deficit": 3872000
+    },
+    {
+     "year": 3,
+     "cum_credit": 6000000,
+     "cum_recapture": 448000,
+     "cum_deficit": 5552000
+    },
+    {
+     "year": 4,
+     "cum_credit": 8000000,
+     "cum_recapture": 1024000,
+     "cum_deficit": 6976000
+    },
+    {
+     "year": 5,
+     "cum_credit": 10000000,
+     "cum_recapture": 1920000,
+     "cum_deficit": 8080000
+    },
+    {
+     "year": 6,
+     "cum_credit": 12000000,
+     "cum_recapture": 3200000,
+     "cum_deficit": 8800000
+    },
+    {
+     "year": 7,
+     "cum_credit": 14000000,
+     "cum_recapture": 4864000,
+     "cum_deficit": 9136000
+    },
+    {
+     "year": 8,
+     "cum_credit": 16000000,
+     "cum_recapture": 6864000,
+     "cum_deficit": 9136000
+    },
+    {
+     "year": 9,
+     "cum_credit": 18000000,
+     "cum_recapture": 8864000,
+     "cum_deficit": 9136000
+    },
+    {
+     "year": 10,
+     "cum_credit": 20000000,
+     "cum_recapture": 10864000,
+     "cum_deficit": 9136000
+    }
+   ],
+   "max_cumulative_deficit": 9136000,
+   "first_breakeven_year": null,
+   "first_breakeven_biennium": null
+  }
+ }
+}

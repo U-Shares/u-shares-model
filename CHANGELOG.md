@@ -4,6 +4,28 @@ Rolling cadence: every release entry states **which claims were added, changed s
 — so critics can cite the exact version they engaged. Statuses are maintainer-stewarded (see
 `GOVERNANCE.md`).
 
+## 2026-08-15 — v1.0.3 (the state fiscal break-even conditions)
+
+**No claim added, changed status, or retired.** The break-even conditions for the 20 percent state
+placement credit, published as apparatus rather than assertion — gate/lock countersigned before
+extraction, acceptance passed, adverse findings adjudicated and published either way:
+- **Two-level architecture:** Level 1 is a hand-checkable three-input formula (0.20 × placements ÷
+  state share × per-enrollee cost) with its six enabling assumptions printed beside every result;
+  Level 2 (budget-realizable) refuses to guess — it returns STATE-SUPPLIES until a fiscal office
+  provides its own realization, channel, and timing parameters.
+- **Published adjudications:** the required near-term conversion exceeds what the household-study
+  mechanism record supports at single-placement scale (adverse #1 PARTIAL — the companion
+  white-paper sentence was corrected accordingly, on the project site); the transition deficit is
+  first-class, not a footnote (adverse #2 materialized: credits pay on the FLOW of placements,
+  recapture accrues on the STOCK); recapture counts only reductions in need, never offsets — a
+  definitional constraint in the formula itself.
+- **The 16-fold structural finding:** required avoided enrollee-years per $1M placed ranges from
+  ~20 (high-need groups at high state shares) to 333 (expansion adults at a 10 percent state
+  share) — the recapture case concentrates exactly where the household study found the
+  benefits-architecture value largest.
+- **Ships with:** `model/state_breakeven.py`, `model/scenarios/state_template.yml` (enter a
+  state's three numbers), `model/econ016_results.json`, and the countersigned gate/lock under
+  `preregistration/`.
 ## 2026-07-28 — v1.0.2 (the household stress study)
 
 **No claim added, changed status, or retired.** The complete pre-registered household stress study —

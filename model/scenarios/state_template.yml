@@ -1,0 +1,20 @@
+# ECON-016 state break-even scenario -- COPY ME, enter your state's numbers, run:
+#   python state_breakeven.py scenarios/your_state.yml
+# Every output is the formula's response to YOUR inputs -- not a prediction for any state.
+# Parameter kinds: the three Level-1 inputs are OBSERVED (your published numbers);
+# Level-2 parameters are STATE-SUPPLIED (no national defaults exist; your fiscal office holds them).
+
+label: "YOUR STATE (template values are the labeled hypothetical illustration)"
+
+# --- Level 1: the three inputs (observed; hand-checkable) ---
+state_share: 0.40            # your state's share of program cost (1 - FMAP); expansion adults = 0.10
+per_enrollee_cost: 8000      # annual per-enrollee cost, matched to the eligibility group you mean
+annual_placements: 10000000  # dollars of U-Shares placed in your state per year
+
+# --- Level 2: budget-realizable parameters (uncomment and supply; the tool will not guess) ---
+# realization_factor: 0.6        # share of average cost that is actually avoidable/cashable (0-1)
+# enrollment_channel_share: 1.0  # share of fiscal effect arriving via enrollment vs utilization
+# credit_timing_years: 1         # years over which the credit is redeemed against your revenue
+
+# --- Timing (optional): your projected avoided enrollee-years by year; else a labeled stylized ramp ---
+# avoided_enrollee_years_ramp: [0, 40, 100, 180, 280, 400, 520, 625, 625, 625]
